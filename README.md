@@ -20,3 +20,6 @@ In order to satisfy our client we need to 'Refactor' their source code including
 4. Making sure the website has gone live by selecting that repository as the 'main' branch source and navigating to the correct url.
 
 <br><br>
+
+Refactored website available at https://github.com/Clarky117/Horiseon-Social-Solution-Services
+Websites repository available at https://github.com/Clarky117/Horiseon-Social-Solution-Services.git
