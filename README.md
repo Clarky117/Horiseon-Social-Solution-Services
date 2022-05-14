@@ -19,8 +19,4 @@ In order to satisfy our client we need to 'Refactor' their source code including
 3. Uploaded changes to the new repository using git commands such as 'git add', 'git commit', and 'git push'
 4. Making sure the website has gone live by selecting that repository as the 'main' branch source and navigating to the correct url.
 
-<<<<<<< HEAD
 <br><br>
-=======
-<br><br>
->>>>>>> 531038361cea7005afea206a4cee9734832604eb
