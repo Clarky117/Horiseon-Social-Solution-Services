@@ -13,6 +13,6 @@ In order to satisfy our client we need to 'Refactor' their source code including
 
 <br><br>
 
-![Mock-Up-Image-Provided](02-Challenge/assets/01-html-css-git-homework-demo.png)
+![Mock-Up-Image-Provided](/02-Challenge/assets/01-html-css-git-homework-demo.png)
 
 <br> If this works i'll be stoked
