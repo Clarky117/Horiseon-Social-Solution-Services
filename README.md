@@ -21,5 +21,5 @@ In order to satisfy our client we need to 'Refactor' their source code including
 
 <br><br>
 
-Refactored website available at https://github.com/Clarky117/Horiseon-Social-Solution-Services <br>
+Refactored website available at https://clarky117.github.io/Horiseon-Social-Solution-Services/ <br>
 Websites repository available at https://github.com/Clarky117/Horiseon-Social-Solution-Services.git
