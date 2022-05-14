@@ -13,6 +13,8 @@ In order to satisfy our client we need to 'Refactor' their source code including
 
 <br><br>
 
-![Mock-Up-Image-Provided](/02-Challenge/assets/01-html-css-git-homework-demo.png)
-
-<br> If this works i'll be stoked
+## Steps Taken
+1. Created a new repository on my GitHub account
+2. Refactored clients source code to meet criteria without changing how the website looks or behave externally
+3. Uploaded changed to the new repository using git commands such as 'git add', 'git commit', and 'git push'
+4. Making sure the website has gone live by selecting that repository as the 'main' branch source and navigating to the correct url.
