@@ -14,7 +14,7 @@ In order to satisfy our client we need to 'Refactor' their source code including
 <br><br>
 
 ## Site Presentation
-![Horiseon-Website](/Assets/images/01-html-css-git-homework-demo.png) 
+![Horiseon-Website](/assets/images/01-html-css-git-homework-demo.png) 
 
 <br><br>
 
