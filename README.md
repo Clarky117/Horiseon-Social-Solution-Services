@@ -13,6 +13,12 @@ In order to satisfy our client we need to 'Refactor' their source code including
 
 <br><br>
 
+## Site Presentation
+Below is how the site has been presented to us;
+![Horiseon-Website](./assets/images/01-html-css-git-homework-demo.png) 
+
+<br><br>
+
 ## Steps Taken
 1. Created a new repository on my GitHub account
 2. Refactored clients source code to meet criteria without changing how the website looks or behave externally
